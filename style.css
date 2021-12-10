@@ -1,15 +1,12 @@
 .jumbotron {
   padding-top: 6rem;
+  padding-bottom: 30rem;
   background-color: #c3d9f7;
+  background-image: url(img/greg-rosenke-CvYoyffzQNM-unsplash.jpg);
 }
-
 section {
   padding-top: 5rem;
 }
 .contact {
   padding-top: 6rem;
-  background-color: #c3d9f7;
-}
-div#a {
-  background-image: none;
 }
