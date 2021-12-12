@@ -1,11 +1,13 @@
 .jumbotron {
   padding-top: 6rem;
   padding-bottom: 30rem;
-  background-color: #c3d9f7;
+  background-color: #fdfeff;
 }
 section {
   padding-top: 5rem;
+  padding-bottom: 40rem;
 }
 .contact {
   padding-top: 6rem;
+  padding-bottom: 35rem;
 }
